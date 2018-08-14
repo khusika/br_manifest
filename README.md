@@ -43,3 +43,5 @@ If it fails to compile
 ```bash
      export LC_ALL=C
 ```
+
+[![Download BATIK-RECOVERY](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/batik-recovery/files/latest/download)
