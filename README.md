@@ -1,3 +1,38 @@
+Overview
+=======
+
+Project Recovery developed by Batik Recovery Teamwork from Indonesia, this Batik Recovery is a derivative of the Official TWRP that was modified by the developer in accordance with the Indonesian characteristics.
+
+In Indonesia, batik is a motif that is considered quite famous for the beauty of its art. Therefore, the developer gave the name Batik Recovery and a touch of batik motifs in the Recovery, including splash, background, and icon.
+
+The goal of the developer to release the project is to further popularize batik, and especially to popularize the name of Indonesia.
+
+
+Features
+=======
+
+    Support Treble or Non Treble
+    Support F2fs
+    Ramdisk Cleaner
+    Enable / Disable HAL3
+    App Delete
+    Enable / Disable Navbar
+    Del Subs Overlay
+    Lazy Flasher
+    Reset Password
+    Aroma FM
+    Root / Unroot Magisk
+    
+Changelog
+=======    
+
+* Overlay Reboot Menu
+* Add some icon style
+* Update Magisk 17.1
+* Add Jowo Language
+* Full Backup / Restore Partition
+* Furher ensure TWRP is not replaced by stock recovery
+
 Credits
 =======
 * [**TEAMWIN RECOVERY PROJECT (BASE)**](https://github.com/TeamWin)
@@ -7,6 +42,16 @@ Credits
 * [**DARK RECOVERY PROJECT**](https://github.com/DarkRecovery)
 * [**ORANGEFOX RECOVERY PROJECT**](https://gitlab.com/OrangeFox)
 
+Donation
+=======
+
+Jika anda merasa puas dengan hasil kerja saya, dan mendukung project saya agar bisa lebih berkembang, silahkan donasi seikhlasnya ke rekening BRI, dgn nomor rekening 3112-01-019706-53-4 atas nama "Muhammad Rifa'i Aziz"
+
+*⃣ Join on grup ZHAN Project Tester and Report - http://t.me/ZHANreport
+
+*⃣ Follow My Instagram - https://www.instagram.com/zhantech
+
+*⃣ Like My Facebook Fan Page - https://m.facebook.com/zhantech
 
 Getting Started
 ===============
