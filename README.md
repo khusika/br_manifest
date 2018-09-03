@@ -11,17 +11,17 @@ The goal of the developer to release the project is to further popularize batik,
 Features
 =======
 
-    Support Treble or Non Treble
-    Support F2fs
-    Ramdisk Cleaner
-    Enable / Disable HAL3
-    App Delete
-    Enable / Disable Navbar
-    Del Subs Overlay
-    Lazy Flasher
-    Reset Password
-    Aroma FM
-    Root / Unroot Magisk
+* Support Treble or Non Treble
+* Support F2fs
+* Ramdisk Cleaner
+* Enable / Disable HAL3
+* App Delete
+* Enable / Disable Navbar
+* Del Subs Overlay
+* Lazy Flasher
+* Reset Password
+* Aroma FM
+* Root / Unroot Magisk
     
 Changelog
 =======    
@@ -47,11 +47,10 @@ Donation
 
 Jika anda merasa puas dengan hasil kerja saya, dan mendukung project saya agar bisa lebih berkembang, silahkan donasi seikhlasnya ke rekening BRI, dgn nomor rekening 3112-01-019706-53-4 atas nama "Muhammad Rifa'i Aziz"
 
-*⃣ Join on grup ZHAN Project Tester and Report - http://t.me/ZHANreport
+* Join on grup ZHAN Project Tester and Report - http://t.me/ZHANreport
+* Follow My Instagram - https://www.instagram.com/zhantech
+* Like My Facebook Fan Page - https://m.facebook.com/zhantech
 
-*⃣ Follow My Instagram - https://www.instagram.com/zhantech
-
-*⃣ Like My Facebook Fan Page - https://m.facebook.com/zhantech
 
 Getting Started
 ===============
