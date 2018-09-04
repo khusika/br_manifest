@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://github.com/BatikRecovery/br_manifest/blob/br/batik-recovery.png" > 
+</p>
+
 Overview
 =======
 
