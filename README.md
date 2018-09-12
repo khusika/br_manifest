@@ -83,6 +83,14 @@ Then to sync up :
      cd <source-dir>
      export ALLOW_MISSING_DEPENDENCIES=true
      . build/envsetup.sh
+```     
+     
+Change Maintainer
+```bash
+     export BR_MAINTAINER="your-name"
+```
+ 
+```bash
      lunch omni_<device>-eng
      mka recoveryimage
 ```
