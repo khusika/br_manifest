@@ -5,7 +5,7 @@
 Overview
 =======
 
-Project Recovery developed by Batik Recovery Teamwork from Indonesia, this Batik Recovery is a derivative of the Official TWRP that was modified by the developer in accordance with the Indonesian characteristics.
+Batik Recovery is Project Recovery developed by Batik Recovery Teamwork from Indonesia, this Batik Recovery is a derivative of the Official TWRP that was modified by the developer in accordance with the Indonesian characteristics.
 
 In Indonesia, batik is a motif that is considered quite famous for the beauty of its art. Therefore, the developer gave the name Batik Recovery and a touch of batik motifs in the Recovery, including splash, background, and icon.
 
@@ -30,12 +30,11 @@ Features
 Changelog
 =======    
 
-* Overlay Reboot Menu
-* Add some icon style
-* Update Magisk 17.1
-* Add Jowo Language
-* Full Backup / Restore Partition
-* Furher ensure TWRP is not replaced by stock recovery
+* Add Square Style, Circle Style Icon
+* Add Change Color Theme (Header & Navbar)
+* Change Themes without Reboot
+* Update Magisk 17.2
+* Add Mount Magisk (Tools)
 
 Credits
 =======
