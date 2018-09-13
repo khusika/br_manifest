@@ -31,6 +31,7 @@ Changelog
 * Change Themes without Reboot
 * Update Magisk 17.2
 * Add Mount Magisk (Tools)
+* Merge September Security Patch (android-8.1.0_r46)
 
 Credits
 =======
