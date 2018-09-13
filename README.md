@@ -48,7 +48,7 @@ Credits
 Donation
 =======
 
-Jika anda merasa puas dengan hasil kerja saya, dan mendukung project saya agar bisa lebih berkembang, silahkan donasi seikhlasnya ke rekening BRI, dgn nomor rekening 3112-01-019706-53-4 atas nama "Muhammad Rifa'i Aziz"
+If you feel satisfied with the results of my work, and support my project so that it can be more developed, please donate to the BRI account, with the account number 3112-01-019706-53-4 in the name of "Muhammad Rifa'i Aziz" or through paypal - http://paypal.me/zhantech
 
 * Join on grup ZHAN Project Tester and Report - http://t.me/ZHANreport
 * Follow My Instagram - https://www.instagram.com/zhantech
