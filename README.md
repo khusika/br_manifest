@@ -106,7 +106,7 @@ Ceck on https://github.com/BatikRecovery/br_devices for your device
 Example :
 
 ```bash
-    repo clone git:https://github.com/BatikRecovery/br_devices -b santoni device/santoni
+    git clone https://github.com/BatikRecovery/br_devices.git -b santoni device/santoni
 ```
 
  Compilation Of Batik Recovery
