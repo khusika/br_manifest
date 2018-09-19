@@ -84,6 +84,17 @@ Then to sync up :
     repo sync
 ```
 
+ Clone Device Tree Of Batik Recovery
+=============================
+
+Ceck on https://github.com/BatikRecovery/br_devices for your device
+
+Exemple :
+
+```bash
+    repo clone git:https://github.com/BatikRecovery/br_devices -b santoni devices/santoni
+```
+
  Compilation Of Batik Recovery
 =============================
  
