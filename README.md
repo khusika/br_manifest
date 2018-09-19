@@ -65,7 +65,7 @@ Make Directory
      cd <source-dir>
 ```
 
-(For Exemple : batik)
+(For Example : batik)
 
 ```bash
      mkdir ~/batik
@@ -103,7 +103,7 @@ Then to sync up :
 
 Ceck on https://github.com/BatikRecovery/br_devices for your device
 
-Exemple :
+Example :
 
 ```bash
     repo clone git:https://github.com/BatikRecovery/br_devices -b santoni device/santoni
