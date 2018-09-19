@@ -58,6 +58,20 @@ Getting Started
 To get started with OMNI sources to build TWRP, you'll need to get
 familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
+Make Directory 
+
+```bash
+     mkdir <source-dir>
+     cd <source-dir>
+```
+
+(For Exemple : batik)
+
+```bash
+     mkdir ~/batik
+     cd ~/batik
+```
+
 To initialize Batik Recovery local repository, use this command :
 ```bash
     repo init -u git://github.com/BatikRecovery/br_manifest.git -b br
