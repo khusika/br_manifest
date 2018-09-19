@@ -92,7 +92,7 @@ Ceck on https://github.com/BatikRecovery/br_devices for your device
 Exemple :
 
 ```bash
-    repo clone git:https://github.com/BatikRecovery/br_devices -b santoni devices/santoni
+    repo clone git:https://github.com/BatikRecovery/br_devices -b santoni device/santoni
 ```
 
  Compilation Of Batik Recovery
