@@ -12,7 +12,7 @@
 
 <!-- Add forked projects -->
     <project name="br_recovery" path="bootable/recovery" remote="br" revision="br-asus" />
-    <project name="br_vendor" path="vendor/batik" remote="br" revision="br" />
+    <project name="br_vendor" path="vendor/batik" remote="br" revision="br-asus" />
     <project path="build/make" name="br_build" remote="br" revision="br" >
         <copyfile src="core/root.mk" dest="Makefile" />
         <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
