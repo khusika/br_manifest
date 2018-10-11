@@ -57,6 +57,7 @@ Changelog
 * Merge September Security Patch (android-8.1.0_r46)	
 
 ~ S 1.4 ~
+
 Changelog Xiaomi :
 * Add Wipe Substratum on Page Wipe
 * Add Automatic Disable DM-Verity
