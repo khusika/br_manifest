@@ -7,11 +7,12 @@ Overview
 
 Batik Recovery is Project Recovery developed by Batik Recovery Teamwork from Indonesia, this Batik Recovery is a derivative of the Official TWRP that was modified by the developer in accordance with the Indonesian characteristics. In Indonesia, batik is a motif that is considered quite famous for the beauty of its art. Therefore, the developer gave the name Batik Recovery and a touch of batik motifs in the Recovery, including splash, background, and icon. The goal of the developer to release the project is to further popularize batik, and especially to popularize the name of Indonesia.
 
-
 Features
 =======
 
-* Support Treble or Non Treble
+* Support Treble (Vendor) or Non Treble
+* Support GSI, Android Pie
+* Support Miui OTA
 * Support F2fs
 * Ramdisk Cleaner
 * Enable / Disable HAL3
@@ -22,16 +23,45 @@ Features
 * Reset Password
 * Aroma FM
 * Root / Unroot Magisk
+* Mount Magisk
     
 Changelog
 =======    
 
+~ Alpha-01 ~
+* Initial Build
+
+~ Alpha-02 ~
+* Add Fitured
+
+~ B v1.1 ~
+* Upstreamed base TWRP 3.2.3-0
+* Update Batik Theme v1.1
+* Update Magisk 16.71
+* Add Indonesia, Sunda Language
+ 
+~ B 1.2 ~
+* Overlay Reboot Menu
+* Add some icon style
+* Update Magisk 17.1
+* Add Jowo Language
+* Full Backup / Restore Partition
+* Further ensure TWRP is not replaced by stock recovery
+ 
+~ B 1.3 ~			
 * Add Square Style, Circle Style Icon
 * Add Change Color Theme (Header & Navbar)
 * Change Themes without Reboot
 * Update Magisk 17.2
 * Add Mount Magisk (Tools)
-* Merge September Security Patch (android-8.1.0_r46)
+* Merge September Security Patch (android-8.1.0_r46)	
+
+~ S 1.4 ~			
+* Add Wipe Substratum on Page Wipe
+* Add Automatic Disable DM-Verity
+* Add OTA MIUI Support
+* Update Magisk 17.3
+* Update October Security Patch
 
 Credits
 =======
