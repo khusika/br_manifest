@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/BatikRecovery/br_manifest/blob/br/batik-recovery.png" > 
+ <img src="https://raw.githubusercontent.com/BatikRecovery/br_manifest/br/batik-recovery.png" > 
 </p>
 
 Overview
