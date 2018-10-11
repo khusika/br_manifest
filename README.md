@@ -56,12 +56,20 @@ Changelog
 * Add Mount Magisk (Tools)
 * Merge September Security Patch (android-8.1.0_r46)	
 
-~ S 1.4 ~			
+~ S 1.4 ~
+Changelog Xiaomi :
 * Add Wipe Substratum on Page Wipe
 * Add Automatic Disable DM-Verity
 * Add OTA MIUI Support
 * Update Magisk 17.3
 * Update October Security Patch
+
+Changelog Asus :
+* Add Wipe Substratum on Page Wipe
+* Update Kernel
+* Update Magisk 17.3
+* Fix Overlay on Menu Reboot
+* Merge October Security Patch (android-8.1.0_r47)
 
 Credits
 =======
