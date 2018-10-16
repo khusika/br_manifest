@@ -116,12 +116,6 @@ To initialize Batik Recovery local repository, use this command :
     repo init -u git://github.com/BatikRecovery/br_manifest.git -b br
 ```
 
-For Nougat Device Tree :
-
-```bash
-    repo init -u git://github.com/BatikRecovery/br_manifest.git -b br-n
-```
-
 For Asus Device :
 
 ```bash
@@ -131,11 +125,6 @@ For Asus Device :
 To initialize a shallow clone, which will save even more space, use a command like this:
 ```bash
     repo init --depth=1 -u git://github.com/BatikRecovery/br_manifest.git -b br
-```
-
-For Nougat Device Tree :
-```bash
-    repo init --depth=1 -u git://github.com/BatikRecovery/br_manifest.git -b br-n
 ```
 
 For Asus Device :
