@@ -72,6 +72,16 @@ Changelog Asus :
 * Fix Overlay on Menu Reboot
 * Merge October Security Patch (android-8.1.0_r47)
 
+~ S 1.4.1 ~
+
+* Update Theme
+* Add Regional language in Indonesia
+* Add Russian, Malay, Turkish, Vietnamese, Portuguese, Japanese Language
+
+~ S 1.4.2 ~
+
+* Fix Bug Progress Bar
+
 Credits
 =======
 * [**TEAMWIN RECOVERY PROJECT (BASE)**](https://github.com/TeamWin)
