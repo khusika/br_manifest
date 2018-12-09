@@ -164,18 +164,12 @@ Example :
  
 ```bash
      cd <source-dir>
-     export ALLOW_MISSING_DEPENDENCIES=true
      . build/envsetup.sh
 ```     
-     
-Change Maintainer
-```bash
-     export BR_MAINTAINER="your-name"
-```
  
 ```bash
      lunch omni_<device>-eng
-     mka recoveryimage
+     make recoveryimage
 ```
 
 If it fails to compile
